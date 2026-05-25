@@ -1,65 +1,84 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0F2027,25:203A43,50:2C5364,75:00C9FF,100:92FE9D&text=MOIZ%20KHAN&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20•%20Automation%20Developer%20•%20Computer%20Vision&descAlignY=58"/>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&duration=2500&pause=1000&color=00C2FF&center=true&vCenter=true&width=1000&lines=Building+Intelligent+AI+Systems;Agentic+AI+%26+Automation+Workflows;Computer+Vision+%26+Deep+Learning;FastAPI+%7C+LangChain+%7C+n8n+%7C+React;Turning+Ideas+Into+Scalable+Products" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:0F2027,25:203A43,50:2C5364,75:00C9FF,100:92FE9D&text=MOIZ%20KHAN&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20•%20Automation%20Developer%20•%20Computer%20Vision&descAlignY=58"/>
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=Moiz1Khan&label=Profile+Views&color=0e75b6&style=for-the-badge" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&duration=2500&pause=1000&color=00C2FF&center=true&vCenter=true&width=1000&lines=Building+Intelligent+AI+Systems;Agentic+AI+%26+Automation+Workflows;Computer+Vision+%26+Deep+Learning;FastAPI+%7C+LangChain+%7C+n8n+%7C+React;Turning+Ideas+Into+Scalable+Products" />
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=Moiz1Khan&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" />
 
 </div>
 
 ---
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> About Me
+# <img src="https://cdn-icons-png.flaticon.com/512/4712/4712109.png" width="35"> About Me
 
-<img align="right" alt="AI" width="360" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2lqYW1mOXVxYWQ3YTZvYXRnZW1vYm85N3l6aHNnZnB2NXQzYWl0MSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l46Cy1rHbQ92uuLXa/giphy.gif">
+<table>
+<tr>
+<td width="52%">
 
 ```yaml
 name: Moiz Khan
+
+role: AI Engineer & Automation Developer
+
 located_in: Pakistan
-current_focus:
+
+specialization:
   [
     "Agentic AI",
     "Automation Systems",
     "Computer Vision",
-    "AI Web Applications"
-  ]
-
-education:
-  [
-    "Artificial Intelligence"
+    "AI Web Applications",
+    "Deep Learning"
   ]
 
 currently_learning:
   [
-    "Advanced AI Agents",
+    "AI Agents",
     "Production AI Systems",
-    "Cloud AI Infrastructure",
-    "n8n Automations"
+    "Cloud Infrastructure",
+    "Advanced Automations"
   ]
 
-interests:
+tech_interests:
   [
-    "Deep Learning",
     "FastAPI",
     "LangChain",
     "React",
     "Docker",
+    "TensorFlow",
+    "PyTorch"
+  ]
+
+creative_side:
+  [
     "Photography",
-    "Videography"
+    "Videography",
+    "Video Editing"
   ]
 
 goal:
-  "Building scalable AI-powered products that solve real-world problems."
+  "Building intelligent AI-powered products
+   that solve real-world problems."
 ```
 
-<br clear="right"/>
+</td>
+
+<td width="48%">
+
+<img src="https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=1200&auto=format&fit=crop" width="100%"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
-# <img src="https://cdn-icons-png.flaticon.com/512/6062/6062646.png" width="28"> Tech Arsenal
+# <img src="https://cdn-icons-png.flaticon.com/512/6062/6062646.png" width="32"> Tech Arsenal
 
 <div align="center">
 
@@ -168,13 +187,21 @@ goal:
 
 ---
 
-# 📊 Development Activity
+# <img src="https://cdn-icons-png.flaticon.com/512/906/906334.png" width="32"> Development Activity
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Moiz1Khan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C2FF&icon_color=00C2FF&text_color=ffffff"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Moiz1Khan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C2FF&icon_color=00C2FF&text_color=ffffff"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moiz1Khan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C2FF&text_color=ffffff"/>
+<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moiz1Khan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C2FF&text_color=ffffff"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Moiz1Khan&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00C2FF&line=00C2FF&point=FFFFFF"/>
 
 </div>
 
@@ -197,11 +224,11 @@ goal:
 
 ---
 
-# 🌌 Contribution Graph
+# 🌌 Contribution Snake
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Moiz1Khan&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00C2FF&line=00C2FF&point=FFFFFF"/>
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 
 </div>
 
@@ -231,9 +258,28 @@ goal:
 
 ---
 
+# ⚡ Current AI Workflow
+
 <div align="center">
 
-### ⚡ “Building intelligent systems that combine creativity, automation, and AI.”
+```mermaid
+flowchart LR
+
+A[AI Ideas] --> B[Research]
+B --> C[Development]
+C --> D[Testing]
+D --> E[Deployment]
+E --> F[Automation]
+F --> G[Optimization]
+```
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 “Building intelligent systems that combine creativity, automation, and AI.”
 
 <br>
 
