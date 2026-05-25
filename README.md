@@ -1,21 +1,136 @@
+<h1 align="center">Hi 👋, I'm Moiz Khan</h1>
+<h3 align="center">AI Engineer • Automation Developer • Computer Vision Enthusiast</h3>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Moiz1Khan&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Moiz1Khan&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Moiz1Khan&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Moiz1Khan&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Moiz1Khan&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=00C2FF&center=true&vCenter=true&width=800&lines=Building+AI+Powered+Systems;Agentic+AI+%26+Automation;Computer+Vision+%26+Deep+Learning;FastAPI+%7C+React+%7C+n8n+%7C+LangChain" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Moiz1Khan&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+## 🚀 About Me
+
+- 🎓 AI Student passionate about intelligent systems & automation
+- 🤖 Building AI-powered applications using **LangChain, FastAPI & n8n**
+- 🧠 Interested in **Agentic AI, Computer Vision & Deep Learning**
+- 🌐 Developing scalable backend systems and modern web applications
+- 📹 Photography & videography enthusiast
+- ⚡ Always exploring cutting-edge AI technologies
+
+---
+
+# 🛠️ Tech Stack
+
+## 🤖 AI & Machine Learning
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,sklearn" />
+</p>
+
+<p align="left">
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-white?style=for-the-badge&logo=plotly&logoColor=black"/>
+<img src="https://img.shields.io/badge/MLflow-d9ead3?style=for-the-badge&logo=mlflow&logoColor=blue"/>
+</p>
+
+---
+
+## ⚙️ Backend & Automation
+<p align="left">
+<img src="https://skillicons.dev/icons?i=fastapi,django,firebase,docker,aws" />
+</p>
+
+<p align="left">
+<img src="https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge"/>
+</p>
+
+---
+
+## 🌐 Frontend & Programming
+<p align="left">
+<img src="https://skillicons.dev/icons?i=js,react,html,css,c,cpp" />
+</p>
+
+---
+
+## 🧰 Tools & Platforms
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,canva" />
+</p>
+
+---
+
+# 🔥 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🤖 AI Booking Chatbot
+AI-powered booking assistant using:
+- FastAPI
+- LangChain
+- FAISS
+- OpenAI APIs
+
+</td>
+
+<td width="50%">
+
+### 🩺 Medical Diagnosis AI
+CNN-based image classification system for:
+- X-Ray analysis
+- Medical diagnosis
+- Deep learning predictions
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### ⚡ n8n Automation Systems
+Business workflow automations with:
+- AI integrations
+- APIs
+- Database pipelines
+- Intelligent agents
+
+</td>
+
+<td width="50%">
+
+### 🌐 Full Stack AI Apps
+Modern web applications using:
+- React
+- FastAPI
+- Firebase
+- Docker
+
+</td>
+</tr>
+</table>
+
+---
+
+# 📈 AI & Development Focus
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Moiz1Khan&theme=github_dark" />
+</p>
+
+---
+
+# 🌟 Current Interests
+
+```python
+Interests = {
+    "AI": ["Agentic AI", "Computer Vision", "Deep Learning"],
+    "Backend": ["FastAPI", "Automation", "Scalable APIs"],
+    "Frontend": ["React", "Interactive UI/UX"],
+    "DevOps": ["Docker", "Cloud Deployment"],
+    "Creative": ["Photography", "Videography", "Video Editing"]
+}
